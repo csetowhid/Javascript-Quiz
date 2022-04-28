@@ -126,14 +126,14 @@ ol li {
 
 /*---Question Page Design---*/
 
-.questions.activeQuiz {
+.Questions.activeQuiz {
     opacity: 1;
     z-index: 5;
     pointer-events: auto;
     transform: translate(-50%, -50%) scale(1);
 }
 
-.questions{
+.Questions{
     width: 320px;
     height: 580px;
     position: absolute;
